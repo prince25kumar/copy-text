@@ -1,0 +1,24 @@
+
+body {
+    background: rgb(95, 91, 187);
+    background: linear-gradient(
+      90deg,
+    
+      rgb(224, 231, 235) 0%,
+      rgb(132, 73, 39) 35%,
+      rgb(71, 110, 226) 100%
+    );
+    
+  }
+h1{
+    
+    text-align: center;
+}
+
+.one, .two, .three{
+    text-align: center;
+}
+
+.three, .two{
+    margin-top: 20px;
+}
